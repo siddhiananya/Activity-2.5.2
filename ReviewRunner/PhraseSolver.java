@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class PhraseSolver
 {
   private Player player1; // Assuming Player is a class.
+  //testing git siddhi
   private Player player2;
   private Board board; // Assuming Board is a class.
   private boolean solved;
